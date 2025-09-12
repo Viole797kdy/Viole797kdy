@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Viole797kdy
+- 👋 Hi, I’m Alexander
+I am a student in Eyecode University
 
 
 <!---
