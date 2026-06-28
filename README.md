@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Alexander
 I am a student in Eyecode University
+Novice Software Engineer
 
 
 <!---
